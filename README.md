@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Ace</h1>
+<h1 align="center">Hey 👋, I'm Vasu</h1>
 <h3 align="center">Student • Developer • Tech Explorer</h3>
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Class 8 Student
+- 🎓 Class 8 Student from India
 - 💻 Interested in Web Development & AI
 - ⚡ Building projects using HTML, CSS, JavaScript & Next.js
 - 🛠 Exploring automation, APIs, and UI/UX systems
