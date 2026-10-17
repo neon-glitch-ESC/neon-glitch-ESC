@@ -2,7 +2,7 @@
 <h3 align="center">Student • Developer • Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=Building+cool+things+with+code+and+AI;Learning+Next.js+and+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=Building+cool+things+with+code+and+AI;Learning+Flutter with AI" alt="Typing SVG" />
 </p>
 
 ---
